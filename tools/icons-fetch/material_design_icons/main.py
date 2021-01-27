@@ -7,7 +7,7 @@ import zipfile
 import io
 
 DIST_DIR = "./dist"
-MATERIAL_ICONS_ROOT_DIR = "../res/material-design-icons"
+MATERIAL_ICONS_ROOT_DIR = "../../res/material-design-icons"
 MATERIAL_ICONS_SVG_DIR = MATERIAL_ICONS_ROOT_DIR + "/src"
 REPOSITORY_ZIP_URL = "https://codeload.github.com/google/material-design-icons/zip/master"
 
@@ -20,8 +20,8 @@ def pre_warm():
     filename = filenamezip.split('.zip')[0]
     z = zipfile.ZipFile(io.BytesIO(r.content))
     z.extractall("../res")
-    print(f'downloaded to ../res/{filename}')
-    rename(f"../res/{filename}", "../res/material-design-icons")
+    print(f'downloaded to res/{filename}')
+    rename(f"res/{filename}", MATERIAL_ICONS_ROOT_DIR)
     print('res available under res/material-design-icons')
 
 

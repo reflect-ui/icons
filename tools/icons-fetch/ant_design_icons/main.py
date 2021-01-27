@@ -1,7 +1,14 @@
-
+import requests
+import json
+from os import walk, path, rename
+import re
+from shutil import copyfile
+import zipfile
+import io
 
 DIST_DIR = "./dist"
 ANT_ICONS_ROOT_DIR = "../res/ant-design-icons"
+ANT_SVG_ROOT = ANT_ICONS_ROOT_DIR + "/packages/icons-svg/svg/"
 REPOSITORY_ZIP_URL = "https://codeload.github.com/ant-design/ant-design-icons/zip/master"
 
 
