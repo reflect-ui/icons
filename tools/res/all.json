@@ -3,4729 +3,4729 @@
     "default_size": 24,
     "variant": "default",
     "family": "caret-down",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "codepen-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "codepen-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "like-default": {
     "default_size": 24,
     "variant": "default",
     "family": "like",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pause-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "pause-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "check-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "check-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "switcher-default": {
     "default_size": 24,
     "variant": "default",
     "family": "switcher",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "qq-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "qq-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "money-collect-default": {
     "default_size": 24,
     "variant": "default",
     "family": "money-collect",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "bulb-default": {
     "default_size": 24,
     "variant": "default",
     "family": "bulb",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-unknown-default": {
     "default_size": 24,
     "variant": "default",
     "family": "file-unknown",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "appstore-default": {
     "default_size": 24,
     "variant": "default",
     "family": "appstore",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-excel-default": {
     "default_size": 24,
     "variant": "default",
     "family": "file-excel",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "sound-default": {
     "default_size": 24,
     "variant": "default",
     "family": "sound",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "code-sandbox-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "code-sandbox-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "left-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "left-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "play-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "play-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-zip-default": {
     "default_size": 24,
     "variant": "default",
     "family": "file-zip",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "hourglass-default": {
     "default_size": 24,
     "variant": "default",
     "family": "hourglass",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "ie-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "ie-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "taobao-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "taobao-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "google-plus-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "google-plus-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "zhihu-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "zhihu-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "highlight-default": {
     "default_size": 24,
     "variant": "default",
     "family": "highlight",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "reconciliation-default": {
     "default_size": 24,
     "variant": "default",
     "family": "reconciliation",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dingtalk-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "dingtalk-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "android-default": {
     "default_size": 24,
     "variant": "default",
     "family": "android",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "home-default": {
     "default_size": 24,
     "variant": "default",
     "family": "home",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pound-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "pound-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "shop-default": {
     "default_size": 24,
     "variant": "default",
     "family": "shop",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "alert-default": {
     "default_size": 24,
     "variant": "default",
     "family": "alert",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "gitlab-default": {
     "default_size": 24,
     "variant": "default",
     "family": "gitlab",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "sliders-default": {
     "default_size": 24,
     "variant": "default",
     "family": "sliders",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dollar-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "dollar-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "shopping-default": {
     "default_size": 24,
     "variant": "default",
     "family": "shopping",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-word-default": {
     "default_size": 24,
     "variant": "default",
     "family": "file-word",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "funnel-plot-default": {
     "default_size": 24,
     "variant": "default",
     "family": "funnel-plot",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "github-default": {
     "default_size": 24,
     "variant": "default",
     "family": "github",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "usb-default": {
     "default_size": 24,
     "variant": "default",
     "family": "usb",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "euro-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "euro-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "golden-default": {
     "default_size": 24,
     "variant": "default",
     "family": "golden",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "tag-default": {
     "default_size": 24,
     "variant": "default",
     "family": "tag",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "up-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "up-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "medium-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "medium-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "down-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "down-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-add-default": {
     "default_size": 24,
     "variant": "default",
     "family": "file-add",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "plus-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "plus-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "database-default": {
     "default_size": 24,
     "variant": "default",
     "family": "database",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "sketch-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "sketch-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-default": {
     "default_size": 24,
     "variant": "default",
     "family": "file",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "account-book-default": {
     "default_size": 24,
     "variant": "default",
     "family": "account-book",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "control-default": {
     "default_size": 24,
     "variant": "default",
     "family": "control",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "red-envelope-default": {
     "default_size": 24,
     "variant": "default",
     "family": "red-envelope",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "signal-default": {
     "default_size": 24,
     "variant": "default",
     "family": "signal",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "reddit-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "reddit-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "box-plot-default": {
     "default_size": 24,
     "variant": "default",
     "family": "box-plot",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dropbox-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "dropbox-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-text-default": {
     "default_size": 24,
     "variant": "default",
     "family": "file-text",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "folder-open-default": {
     "default_size": 24,
     "variant": "default",
     "family": "folder-open",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "build-default": {
     "default_size": 24,
     "variant": "default",
     "family": "build",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "behance-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "behance-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "question-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "question-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "lock-default": {
     "default_size": 24,
     "variant": "default",
     "family": "lock",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "fire-default": {
     "default_size": 24,
     "variant": "default",
     "family": "fire",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "weibo-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "weibo-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dislike-default": {
     "default_size": 24,
     "variant": "default",
     "family": "dislike",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "instagram-default": {
     "default_size": 24,
     "variant": "default",
     "family": "instagram",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "idcard-default": {
     "default_size": 24,
     "variant": "default",
     "family": "idcard",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "meh-default": {
     "default_size": 24,
     "variant": "default",
     "family": "meh",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "diff-default": {
     "default_size": 24,
     "variant": "default",
     "family": "diff",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "minus-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "minus-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "caret-up-default": {
     "default_size": 24,
     "variant": "default",
     "family": "caret-up",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "close-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "close-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "mail-default": {
     "default_size": 24,
     "variant": "default",
     "family": "mail",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "book-default": {
     "default_size": 24,
     "variant": "default",
     "family": "book",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "wallet-default": {
     "default_size": 24,
     "variant": "default",
     "family": "wallet",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-image-default": {
     "default_size": 24,
     "variant": "default",
     "family": "file-image",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "bell-default": {
     "default_size": 24,
     "variant": "default",
     "family": "bell",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dashboard-default": {
     "default_size": 24,
     "variant": "default",
     "family": "dashboard",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "code-default": {
     "default_size": 24,
     "variant": "default",
     "family": "code",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "alipay-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "alipay-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "aliwangwang-default": {
     "default_size": 24,
     "variant": "default",
     "family": "aliwangwang",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "carry-out-default": {
     "default_size": 24,
     "variant": "default",
     "family": "carry-out",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "flag-default": {
     "default_size": 24,
     "variant": "default",
     "family": "flag",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "snippets-default": {
     "default_size": 24,
     "variant": "default",
     "family": "snippets",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "stop-default": {
     "default_size": 24,
     "variant": "default",
     "family": "stop",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "right-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "right-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "step-forward-default": {
     "default_size": 24,
     "variant": "default",
     "family": "step-forward",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "container-default": {
     "default_size": 24,
     "variant": "default",
     "family": "container",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "amazon-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "amazon-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "slack-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "slack-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "frown-default": {
     "default_size": 24,
     "variant": "default",
     "family": "frown",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "tool-default": {
     "default_size": 24,
     "variant": "default",
     "family": "tool",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "safety-certificate-default": {
     "default_size": 24,
     "variant": "default",
     "family": "safety-certificate",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dribbble-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "dribbble-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "google-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "google-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "twitter-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "twitter-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "caret-right-default": {
     "default_size": 24,
     "variant": "default",
     "family": "caret-right",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "trophy-default": {
     "default_size": 24,
     "variant": "default",
     "family": "trophy",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "warning-default": {
     "default_size": 24,
     "variant": "default",
     "family": "warning",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pie-chart-default": {
     "default_size": 24,
     "variant": "default",
     "family": "pie-chart",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "security-scan-default": {
     "default_size": 24,
     "variant": "default",
     "family": "security-scan",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "info-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "info-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "eye-invisible-default": {
     "default_size": 24,
     "variant": "default",
     "family": "eye-invisible",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "left-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "left-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "copy-default": {
     "default_size": 24,
     "variant": "default",
     "family": "copy",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "gold-default": {
     "default_size": 24,
     "variant": "default",
     "family": "gold",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "code-sandbox-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "code-sandbox-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "fund-default": {
     "default_size": 24,
     "variant": "default",
     "family": "fund",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "play-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "play-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-exclamation-default": {
     "default_size": 24,
     "variant": "default",
     "family": "file-exclamation",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "codepen-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "codepen-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "fast-backward-default": {
     "default_size": 24,
     "variant": "default",
     "family": "fast-backward",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "environment-default": {
     "default_size": 24,
     "variant": "default",
     "family": "environment",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "check-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "check-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "html5-default": {
     "default_size": 24,
     "variant": "default",
     "family": "html5",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "save-default": {
     "default_size": 24,
     "variant": "default",
     "family": "save",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "smile-default": {
     "default_size": 24,
     "variant": "default",
     "family": "smile",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "qq-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "qq-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "setting-default": {
     "default_size": 24,
     "variant": "default",
     "family": "setting",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "fast-forward-default": {
     "default_size": 24,
     "variant": "default",
     "family": "fast-forward",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "message-default": {
     "default_size": 24,
     "variant": "default",
     "family": "message",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "copyright-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "copyright-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dingtalk-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "dingtalk-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "crown-default": {
     "default_size": 24,
     "variant": "default",
     "family": "crown",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "backward-default": {
     "default_size": 24,
     "variant": "default",
     "family": "backward",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "yuque-default": {
     "default_size": 24,
     "variant": "default",
     "family": "yuque",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "notification-default": {
     "default_size": 24,
     "variant": "default",
     "family": "notification",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "picture-default": {
     "default_size": 24,
     "variant": "default",
     "family": "picture",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "ie-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "ie-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "taobao-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "taobao-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "google-plus-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "google-plus-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "facebook-default": {
     "default_size": 24,
     "variant": "default",
     "family": "facebook",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "zhihu-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "zhihu-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "camera-default": {
     "default_size": 24,
     "variant": "default",
     "family": "camera",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "printer-default": {
     "default_size": 24,
     "variant": "default",
     "family": "printer",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pay-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "pay-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "wechat-default": {
     "default_size": 24,
     "variant": "default",
     "family": "wechat",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "format-painter-default": {
     "default_size": 24,
     "variant": "default",
     "family": "format-painter",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "medium-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "medium-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "up-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "up-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "exclamation-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "exclamation-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "mac-command-default": {
     "default_size": 24,
     "variant": "default",
     "family": "mac-command",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "down-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "down-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "step-backward-default": {
     "default_size": 24,
     "variant": "default",
     "family": "step-backward",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "rest-default": {
     "default_size": 24,
     "variant": "default",
     "family": "rest",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "contacts-default": {
     "default_size": 24,
     "variant": "default",
     "family": "contacts",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "star-default": {
     "default_size": 24,
     "variant": "default",
     "family": "star",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "trademark-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "trademark-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "experiment-default": {
     "default_size": 24,
     "variant": "default",
     "family": "experiment",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "edit-default": {
     "default_size": 24,
     "variant": "default",
     "family": "edit",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "reddit-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "reddit-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "api-default": {
     "default_size": 24,
     "variant": "default",
     "family": "api",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "windows-default": {
     "default_size": 24,
     "variant": "default",
     "family": "windows",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "bug-default": {
     "default_size": 24,
     "variant": "default",
     "family": "bug",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "youtube-default": {
     "default_size": 24,
     "variant": "default",
     "family": "youtube",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dropbox-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "dropbox-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "unlock-default": {
     "default_size": 24,
     "variant": "default",
     "family": "unlock",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "compass-default": {
     "default_size": 24,
     "variant": "default",
     "family": "compass",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "plus-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "plus-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "bank-default": {
     "default_size": 24,
     "variant": "default",
     "family": "bank",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "credit-card-default": {
     "default_size": 24,
     "variant": "default",
     "family": "credit-card",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "sketch-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "sketch-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-markdown-default": {
     "default_size": 24,
     "variant": "default",
     "family": "file-markdown",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "yahoo-default": {
     "default_size": 24,
     "variant": "default",
     "family": "yahoo",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "audio-default": {
     "default_size": 24,
     "variant": "default",
     "family": "audio",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "delete-default": {
     "default_size": 24,
     "variant": "default",
     "family": "delete",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "skin-default": {
     "default_size": 24,
     "variant": "default",
     "family": "skin",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "phone-default": {
     "default_size": 24,
     "variant": "default",
     "family": "phone",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "eye-default": {
     "default_size": 24,
     "variant": "default",
     "family": "eye",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "mobile-default": {
     "default_size": 24,
     "variant": "default",
     "family": "mobile",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "behance-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "behance-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "insurance-default": {
     "default_size": 24,
     "variant": "default",
     "family": "insurance",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "gift-default": {
     "default_size": 24,
     "variant": "default",
     "family": "gift",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "car-default": {
     "default_size": 24,
     "variant": "default",
     "family": "car",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "ci-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "ci-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "weibo-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "weibo-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "thunderbolt-default": {
     "default_size": 24,
     "variant": "default",
     "family": "thunderbolt",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "profile-default": {
     "default_size": 24,
     "variant": "default",
     "family": "profile",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "tags-default": {
     "default_size": 24,
     "variant": "default",
     "family": "tags",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "folder-add-default": {
     "default_size": 24,
     "variant": "default",
     "family": "folder-add",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "schedule-default": {
     "default_size": 24,
     "variant": "default",
     "family": "schedule",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "linkedin-default": {
     "default_size": 24,
     "variant": "default",
     "family": "linkedin",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "robot-default": {
     "default_size": 24,
     "variant": "default",
     "family": "robot",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "filter-default": {
     "default_size": 24,
     "variant": "default",
     "family": "filter",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "calendar-default": {
     "default_size": 24,
     "variant": "default",
     "family": "calendar",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "video-camera-default": {
     "default_size": 24,
     "variant": "default",
     "family": "video-camera",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "minus-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "minus-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "caret-left-default": {
     "default_size": 24,
     "variant": "default",
     "family": "caret-left",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "close-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "close-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "cloud-default": {
     "default_size": 24,
     "variant": "default",
     "family": "cloud",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "alipay-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "alipay-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "read-default": {
     "default_size": 24,
     "variant": "default",
     "family": "read",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "interaction-default": {
     "default_size": 24,
     "variant": "default",
     "family": "interaction",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "property-safety-default": {
     "default_size": 24,
     "variant": "default",
     "family": "property-safety",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "forward-default": {
     "default_size": 24,
     "variant": "default",
     "family": "forward",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "right-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "right-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "skype-default": {
     "default_size": 24,
     "variant": "default",
     "family": "skype",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "rocket-default": {
     "default_size": 24,
     "variant": "default",
     "family": "rocket",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "amazon-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "amazon-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "slack-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "slack-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "tablet-default": {
     "default_size": 24,
     "variant": "default",
     "family": "tablet",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pushpin-default": {
     "default_size": 24,
     "variant": "default",
     "family": "pushpin",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "hdd-default": {
     "default_size": 24,
     "variant": "default",
     "family": "hdd",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "chrome-default": {
     "default_size": 24,
     "variant": "default",
     "family": "chrome",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "calculator-default": {
     "default_size": 24,
     "variant": "default",
     "family": "calculator",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "apple-default": {
     "default_size": 24,
     "variant": "default",
     "family": "apple",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "medicine-box-default": {
     "default_size": 24,
     "variant": "default",
     "family": "medicine-box",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "project-default": {
     "default_size": 24,
     "variant": "default",
     "family": "project",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "folder-default": {
     "default_size": 24,
     "variant": "default",
     "family": "folder",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-ppt-default": {
     "default_size": 24,
     "variant": "default",
     "family": "file-ppt",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-pdf-default": {
     "default_size": 24,
     "variant": "default",
     "family": "file-pdf",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "twitter-square-default": {
     "default_size": 24,
     "variant": "default",
     "family": "twitter-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "google-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "google-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dribbble-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "dribbble-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "customer-service-default": {
     "default_size": 24,
     "variant": "default",
     "family": "customer-service",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "layout-default": {
     "default_size": 24,
     "variant": "default",
     "family": "layout",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "clock-circle-default": {
     "default_size": 24,
     "variant": "default",
     "family": "clock-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "heart-default": {
     "default_size": 24,
     "variant": "default",
     "family": "heart",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "appstore-add-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "appstore-add",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "underline-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "underline",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "small-dash-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "small-dash",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "caret-down-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "caret-down",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "medium-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "medium",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "search-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "search",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "vertical-align-middle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "vertical-align-middle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "delete-row-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "delete-row",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "like-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "like",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pause-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "pause-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pic-left-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "pic-left",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "check-square-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "check-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-search-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file-search",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "arrow-down-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "arrow-down",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "switcher-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "switcher",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "rollback-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "rollback",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "money-collect-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "money-collect",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "bulb-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "bulb",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "vertical-left-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "vertical-left",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-unknown-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file-unknown",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "appstore-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "appstore",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-excel-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file-excel",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "sound-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "sound",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "unordered-list-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "unordered-list",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "rotate-left-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "rotate-left",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "left-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "left-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "play-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "play-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-zip-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file-zip",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "border-outer-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "border-outer",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "medium-workmark-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "medium-workmark",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dropbox-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "dropbox",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "insert-row-above-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "insert-row-above",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "hourglass-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "hourglass",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "sort-descending-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "sort-descending",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "swap-left-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "swap-left",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "safety-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "safety",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "menu-unfold-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "menu-unfold",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "node-collapse-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "node-collapse",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "user-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "user",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "highlight-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "highlight",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "delivered-procedure-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "delivered-procedure",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "fullscreen-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "fullscreen",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "reconciliation-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "reconciliation",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "issues-close-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "issues-close",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "android-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "android",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dollar-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "dollar",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pull-request-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "pull-request",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "home-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "home",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pound-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "pound-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "shop-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "shop",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dingtalk-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "dingtalk",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "copyright-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "copyright",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "alert-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "alert",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "gitlab-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "gitlab",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "disconnect-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "disconnect",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "column-width-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "column-width",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "sliders-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "sliders",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dollar-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "dollar-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "ant-design-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "ant-design",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "weibo-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "weibo",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "function-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "function",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "fullscreen-exit-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "fullscreen-exit",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "logout-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "logout",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "strikethrough-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "strikethrough",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "shopping-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "shopping",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-word-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file-word",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "funnel-plot-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "funnel-plot",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-gif-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file-gif",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "folder-view-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "folder-view",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "github-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "github",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "vertical-right-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "vertical-right",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "usb-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "usb",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "euro-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "euro-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "export-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "export",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "down-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "down",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "shrink-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "shrink",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "usergroup-add-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "usergroup-add",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "tag-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "tag",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "up-square-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "up-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "one-to-one-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "one-to-one",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "down-square-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "down-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-add-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file-add",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "fall-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "fall",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "inbox-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "inbox",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "audit-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "audit",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "plus-square-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "plus-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "stock-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "stock",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "verified-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "verified",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "drag-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "drag",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "database-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "database",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "partition-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "partition",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "account-book-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "account-book",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "control-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "control",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "red-envelope-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "red-envelope",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "radius-bottomright-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "radius-bottomright",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "clear-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "clear",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "radius-bottomleft-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "radius-bottomleft",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "box-plot-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "box-plot",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-text-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file-text",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "folder-open-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "folder-open",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "build-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "build",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "font-size-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "font-size",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "apartment-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "apartment",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "behance-square-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "behance-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "bar-chart-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "bar-chart",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "up-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "up",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "question-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "question-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "question-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "question",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "lock-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "lock",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "cloud-upload-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "cloud-upload",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "fire-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "fire",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "weibo-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "weibo-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dislike-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "dislike",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "usergroup-delete-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "usergroup-delete",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "instagram-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "instagram",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "euro-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "euro",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "link-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "link",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "idcard-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "idcard",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "key-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "key",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "node-index-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "node-index",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "meh-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "meh",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "whats-app-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "whats-app",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "arrow-right-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "arrow-right",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "percentage-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "percentage",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "field-number-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "field-number",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "qrcode-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "qrcode",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "number-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "number",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "ci-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "ci",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "diff-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "diff",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "group-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "group",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "minus-square-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "minus-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "compress-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "compress",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "border-inner-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "border-inner",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "paper-clip-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "paper-clip",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "caret-up-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "caret-up",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "close-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "close-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pic-center-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "pic-center",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "mail-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "mail",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "desktop-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "desktop",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "download-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "download",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "expand-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "expand",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "import-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "import",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "radar-chart-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "radar-chart",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "area-chart-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "area-chart",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pound-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "pound",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "insert-row-left-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "insert-row-left",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-done-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file-done",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "user-delete-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "user-delete",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "console-sql-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "console-sql",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "aliyun-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "aliyun",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "login-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "login",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "book-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "book",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "scissor-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "scissor",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "wallet-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "wallet",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-image-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file-image",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "bell-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "bell",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "coffee-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "coffee",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dashboard-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "dashboard",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "code-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "code",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "poweroff-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "poweroff",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "heat-map-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "heat-map",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "alipay-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "alipay-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "aliwangwang-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "aliwangwang",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "carry-out-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "carry-out",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "gif-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "gif",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "transaction-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "transaction",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "double-left-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "double-left",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "flag-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "flag",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "snippets-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "snippets",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "stop-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "stop",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "right-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "right-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "step-forward-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "step-forward",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "cluster-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "cluster",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "container-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "container",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "slack-square-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "slack-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "frown-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "frown",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "tool-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "tool",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "safety-certificate-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "safety-certificate",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dribbble-square-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "dribbble-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "rise-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "rise",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-sync-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file-sync",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "border-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "border",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "caret-right-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "caret-right",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "bold-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "bold",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "trophy-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "trophy",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "share-alt-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "share-alt",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "plus-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "plus",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "check-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "check",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dash-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "dash",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "user-switch-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "user-switch",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "warning-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "warning",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "trademark-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "trademark",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "global-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "global",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "audio-muted-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "audio-muted",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pie-chart-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "pie-chart",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "borderless-table-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "borderless-table",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "radius-upright-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "radius-upright",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "security-scan-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "security-scan",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "node-expand-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "node-expand",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "wifi-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "wifi",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "line-height-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "line-height",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "translation-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "translation",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "team-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "team",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "info-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "info",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "subnode-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "subnode",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "user-add-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "user-add",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "close-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "close",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "border-verticle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "border-verticle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "info-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "info-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dingding-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "dingding",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "eye-invisible-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "eye-invisible",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "cloud-sync-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "cloud-sync",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "left-square-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "left-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "copy-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "copy",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "gold-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "gold",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "ant-cloud-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "ant-cloud",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "zoom-in-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "zoom-in",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "fund-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "fund",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "reload-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "reload",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "play-square-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "play-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "border-right-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "border-right",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-exclamation-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file-exclamation",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "codepen-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "codepen-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "fast-backward-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "fast-backward",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "align-right-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "align-right",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "environment-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "environment",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "check-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "check-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "html5-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "html5",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "save-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "save",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "smile-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "smile",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "scan-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "scan",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "fork-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "fork",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "right-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "right",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-protect-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file-protect",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "aim-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "aim",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "setting-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "setting",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "solution-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "solution",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "loading-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "loading",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "fast-forward-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "fast-forward",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "message-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "message",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "zoom-out-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "zoom-out",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "copyright-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "copyright-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "crown-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "crown",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "backward-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "backward",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "yuque-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "yuque",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "notification-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "notification",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "picture-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "picture",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "exception-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "exception",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "table-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "table",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "send-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "send",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "barcode-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "barcode",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "taobao-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "taobao-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "column-height-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "column-height",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "facebook-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "facebook",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "camera-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "camera",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "printer-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "printer",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "amazon-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "amazon",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-jpg-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file-jpg",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "border-top-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "border-top",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "redo-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "redo",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pay-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "pay-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "wechat-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "wechat",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "swap-right-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "swap-right",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "google-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "google",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "format-painter-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "format-painter",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "more-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "more",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "line-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "line",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "up-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "up-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "exclamation-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "exclamation-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "branches-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "branches",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "radius-setting-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "radius-setting",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "deployment-unit-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "deployment-unit",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "mac-command-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "mac-command",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "down-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "down-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "ungroup-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "ungroup",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "step-backward-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "step-backward",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "fund-view-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "fund-view",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "rest-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "rest",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "contacts-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "contacts",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "form-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "form",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "star-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "star",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "trademark-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "trademark-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "ordered-list-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "ordered-list",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "experiment-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "experiment",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "delete-column-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "delete-column",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "edit-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "edit",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "api-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "api",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "windows-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "windows",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "bug-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "bug",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "youtube-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "youtube",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "unlock-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "unlock",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "to-top-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "to-top",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "border-left-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "border-left",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "compass-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "compass",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "alibaba-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "alibaba",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "plus-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "plus-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "menu-fold-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "menu-fold",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "sisternode-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "sisternode",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "woman-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "woman",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "bank-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "bank",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "credit-card-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "credit-card",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-markdown-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file-markdown",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "vertical-align-bottom-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "vertical-align-bottom",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "gateway-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "gateway",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "select-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "select",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "yahoo-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "yahoo",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "loading-3-quarters-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "loading-3-quarters",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "sketch-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "sketch",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "audio-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "audio",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "delete-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "delete",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "reddit-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "reddit",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "alipay-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "alipay",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pic-right-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "pic-right",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "retweet-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "retweet",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "skin-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "skin",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "phone-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "phone",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "sync-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "sync",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "eye-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "eye",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "mobile-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "mobile",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "insurance-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "insurance",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "codepen-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "codepen",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dribbble-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "dribbble",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "gift-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "gift",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "line-chart-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "line-chart",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "car-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "car",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "ci-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "ci-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "weibo-square-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "weibo-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "thunderbolt-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "thunderbolt",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "profile-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "profile",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "tags-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "tags",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "border-bottom-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "border-bottom",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "arrow-up-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "arrow-up",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "google-plus-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "google-plus",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "folder-add-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "folder-add",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "schedule-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "schedule",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "linkedin-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "linkedin",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "field-binary-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "field-binary",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "qq-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "qq",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "shake-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "shake",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "undo-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "undo",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "robot-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "robot",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "twitter-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "twitter",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "filter-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "filter",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "field-string-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "field-string",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "italic-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "italic",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "comment-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "comment",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "calendar-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "calendar",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "video-camera-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "video-camera",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "arrow-left-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "arrow-left",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "align-center-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "align-center",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "ellipsis-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "ellipsis",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "minus-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "minus-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "video-camera-add-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "video-camera-add",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "split-cells-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "split-cells",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "merge-cells-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "merge-cells",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "border-horizontal-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "border-horizontal",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "laptop-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "laptop",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dot-chart-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "dot-chart",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "caret-left-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "caret-left",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "font-colors-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "font-colors",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "close-square-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "close-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "slack-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "slack",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "zhihu-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "zhihu",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "cloud-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "cloud",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "ie-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "ie",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "read-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "read",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "insert-row-below-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "insert-row-below",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "bars-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "bars",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "vertical-align-top-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "vertical-align-top",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "upload-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "upload",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "interaction-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "interaction",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pause-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "pause",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "double-right-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "double-right",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "property-safety-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "property-safety",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "forward-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "forward",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "code-sandbox-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "code-sandbox",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "right-square-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "right-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "skype-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "skype",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "rocket-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "rocket",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "rotate-right-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "rotate-right",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "tablet-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "tablet",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "enter-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "enter",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "insert-row-right-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "insert-row-right",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "cloud-download-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "cloud-download",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "fund-projection-screen-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "fund-projection-screen",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "menu-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "menu",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pushpin-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "pushpin",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "hdd-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "hdd",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "chrome-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "chrome",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "shopping-cart-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "shopping-cart",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "sort-ascending-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "sort-ascending",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "calculator-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "calculator",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "apple-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "apple",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "block-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "block",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "man-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "man",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "medicine-box-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "medicine-box",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "project-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "project",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "history-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "history",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "folder-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "folder",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "arrows-alt-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "arrows-alt",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "taobao-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "taobao",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-ppt-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file-ppt",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "bg-colors-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "bg-colors",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "left-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "left",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-pdf-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "file-pdf",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "monitor-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "monitor",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "minus-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "minus",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "exclamation-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "exclamation",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "swap-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "swap",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "behance-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "behance",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "customer-service-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "customer-service",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "field-time-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "field-time",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "radius-upleft-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "radius-upleft",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "expand-alt-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "expand-alt",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "cloud-server-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "cloud-server",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "layout-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "layout",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "clock-circle-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "clock-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "align-left-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "align-left",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "heart-outlined": {
     "default_size": 24,
     "variant": "outlined",
     "family": "heart",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "like-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "like",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pause-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "pause-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "check-square-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "check-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "switcher-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "switcher",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "money-collect-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "money-collect",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "bulb-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "bulb",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-unknown-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "file-unknown",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "appstore-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "appstore",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-excel-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "file-excel",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "sound-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "sound",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "left-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "left-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "play-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "play-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-zip-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "file-zip",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "hourglass-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "hourglass",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "highlight-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "highlight",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "reconciliation-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "reconciliation",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dollar-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "dollar",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "home-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "home",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pound-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "pound-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "shop-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "shop",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "copyright-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "copyright",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "alert-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "alert",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "sliders-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "sliders",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dollar-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "dollar-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "shopping-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "shopping",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-word-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "file-word",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "funnel-plot-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "funnel-plot",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "usb-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "usb",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "euro-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "euro-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "tag-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "tag",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "up-square-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "up-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "down-square-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "down-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-add-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "file-add",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "plus-square-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "plus-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "database-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "database",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "file",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "account-book-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "account-book",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "control-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "control",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "red-envelope-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "red-envelope",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "box-plot-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "box-plot",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-text-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "file-text",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "folder-open-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "folder-open",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "build-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "build",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "question-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "question-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "lock-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "lock",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "fire-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "fire",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dislike-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "dislike",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "euro-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "euro",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "idcard-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "idcard",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "meh-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "meh",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "ci-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "ci",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "diff-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "diff",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "minus-square-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "minus-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "close-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "close-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "mail-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "mail",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "book-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "book",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "wallet-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "wallet",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-image-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "file-image",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "bell-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "bell",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "dashboard-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "dashboard",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "code-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "code",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "carry-out-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "carry-out",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "flag-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "flag",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "snippets-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "snippets",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "stop-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "stop",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "right-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "right-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "container-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "container",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "frown-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "frown",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "tool-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "tool",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "safety-certificate-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "safety-certificate",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "trophy-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "trophy",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "warning-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "warning",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pie-chart-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "pie-chart",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "security-scan-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "security-scan",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "info-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "info-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "eye-invisible-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "eye-invisible",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "left-square-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "left-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "copy-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "copy",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "gold-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "gold",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "fund-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "fund",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "play-square-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "play-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-exclamation-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "file-exclamation",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "environment-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "environment",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "check-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "check-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "html5-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "html5",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "save-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "save",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "smile-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "smile",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "setting-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "setting",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "message-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "message",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "copyright-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "copyright-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "crown-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "crown",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "notification-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "notification",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "picture-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "picture",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "camera-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "camera",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "printer-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "printer",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "up-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "up-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "exclamation-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "exclamation-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "down-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "down-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "rest-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "rest",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "contacts-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "contacts",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "star-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "star",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "trademark-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "trademark-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "experiment-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "experiment",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "edit-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "edit",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "api-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "api",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "bug-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "bug",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "unlock-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "unlock",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "compass-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "compass",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "plus-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "plus-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "bank-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "bank",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "credit-card-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "credit-card",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-markdown-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "file-markdown",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "audio-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "audio",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "delete-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "delete",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "skin-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "skin",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "phone-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "phone",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "eye-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "eye",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "mobile-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "mobile",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "insurance-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "insurance",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "gift-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "gift",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "car-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "car",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "ci-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "ci-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "thunderbolt-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "thunderbolt",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "profile-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "profile",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "tags-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "tags",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "folder-add-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "folder-add",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "schedule-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "schedule",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "filter-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "filter",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "calendar-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "calendar",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "video-camera-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "video-camera",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "minus-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "minus-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "close-square-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "close-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "cloud-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "cloud",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "interaction-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "interaction",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "property-safety-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "property-safety",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "right-square-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "right-square",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "rocket-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "rocket",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "tablet-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "tablet",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "pushpin-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "pushpin",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "hdd-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "hdd",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "calculator-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "calculator",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "medicine-box-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "medicine-box",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "project-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "project",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "folder-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "folder",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-ppt-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "file-ppt",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "file-pdf-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "file-pdf",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "customer-service-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "customer-service",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "layout-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "layout",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "clock-circle-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "clock-circle",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "heart-twotone": {
     "default_size": 24,
     "variant": "twotone",
     "family": "heart",
-    "host": "and-design"
+    "host": "ant-design"
   },
   "agriculture_outlined": {
     "default_size": "20",
