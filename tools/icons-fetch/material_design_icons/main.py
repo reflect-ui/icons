@@ -5,6 +5,9 @@ from shutil import copyfile
 import requests
 import zipfile
 import io
+import constants.icon_constants
+import models.model
+from utils.icon_names import make_icon_full_name, make_icon_full_name_with_size
 
 DIST_DIR = "./dist"
 MATERIAL_ICONS_ROOT_DIR = "../../res/material-design-icons"
@@ -25,15 +28,16 @@ def pre_warm():
     print('res available under res/material-design-icons')
 
 
-SIZE_VARIANT_NAME_MAP = {
-    "materialiconsoutlined": "outlined",
-    "materialiconsround": "round",
-    "materialiconssharp": "sharp",
+ICON_VARIANT_NAME_MAP = {
+    "materialiconsoutlined": constants.icon_constants.ICON_VARIANT_OUTLINED,
+    "materialiconsround": constants.icon_constants.ICON_VARIANT_ROUND,
+    "materialiconssharp": constants.icon_constants.ICON_VARIANT_SHARP,
     "materialicons": "",
-    "materialiconstwotone": "twotone",
+    "materialiconstwotone": constants.icon_constants.ICON_VARIANT_TWOTONE,
 }
 
-SIZE_VARIANT_FLUTTER_NAME_MAP = {
+# this makes icon variant name as compatible with flutter's icon definition name
+MATERIAL_ICON_VARIANT_FLUTTER_NAME_MAP = {
     "outlined": "outlined",
     "round": "round",
     "sharp": "sharp",
@@ -42,18 +46,11 @@ SIZE_VARIANT_FLUTTER_NAME_MAP = {
 }
 
 
-def make_icon_full_name(icon_name, icon_variant):
-    return f"{icon_name}_{icon_variant}" if icon_variant != "" else icon_name
-
-
-def make_icon_full_name_with_size(icon_name, icon_variant, size):
-    return f'{make_icon_full_name(icon_name, icon_variant)}_{size}'
-
-
+# TODO - Shitty code
 def get_icon_info_from_path(svg_path):
     splits = svg_path.split('/')
     icon_name = splits[-3]
-    icon_variant = SIZE_VARIANT_FLUTTER_NAME_MAP[SIZE_VARIANT_NAME_MAP[splits[-2]]]
+    icon_variant = MATERIAL_ICON_VARIANT_FLUTTER_NAME_MAP[ICON_VARIANT_NAME_MAP[splits[-2]]]
     size = re.search(r'(.*?)px\.svg', splits[-1]).group(1)
     return icon_name, icon_variant, size
 
@@ -72,12 +69,15 @@ def main():
         icon_full_name_with_size = make_icon_full_name_with_size(
             icon_name, icon_variant, size)
         print(icon_name, icon_variant, size)
-        config[icon_full_name] = {
-            "default_size": size,
-            "variant": "default" if icon_variant == "" else icon_variant,
-            "family": icon_name,
-            "host": "material"
-        }
+
+        single_icon_config = models.model.SingleIconConfig(
+            default_size=size,
+            variant="default" if icon_variant == "" else icon_variant,
+            family=icon_name,
+            host=constants.icon_constants.ICON_ORIGIN_HOST_MATERIAL
+        )
+
+        config[icon_full_name] = single_icon_config.to_object()
 
         out = f"{DIST_DIR}/{icon_full_name_with_size}.svg"
         copyfile(svg_path, out)
