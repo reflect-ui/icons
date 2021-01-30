@@ -13,7 +13,7 @@ import models.model
 from utils.icon_names import make_icon_full_name
 
 DIST_DIR = "./dist"
-ANT_ICONS_ROOT_DIR = "../res/ant-design-icons"
+ANT_ICONS_ROOT_DIR = "../../res/ant-design-icons"
 ANT_SVG_ROOT = ANT_ICONS_ROOT_DIR + "/packages/icons-svg/svg/"
 REPOSITORY_ZIP_URL = "https://codeload.github.com/ant-design/ant-design-icons/zip/master"
 
