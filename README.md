@@ -13,3 +13,10 @@ Reflect UI Icons
 - flutter - `reflect_ui_icons`
 - android - WIP
 - ios - WIP
+
+
+## The Design Source
+The origin source design of reflect icons are available on [figma here][reflect-ui-icons-on-figma]
+
+
+[reflect-ui-icons-on-figma]: https://www.figma.com/file/OtJtR0466ehNOaJIZmzydg/reflect-ui-icons
