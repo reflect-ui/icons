@@ -11,7 +11,3 @@
 - all.json - all merged refelct icons configuration in single json file
 - antd.dist.zip - antd icons svgs and config.json zipped
 - material.dist.zip - material icons svgs and config.json zipped
-
-## Scripts
-
-- list-names-only.js `node list-names-only.js -i=mdi.config.json -o=mdi-names.txt`
