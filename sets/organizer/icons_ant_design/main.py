@@ -44,7 +44,7 @@ def prepare_dump():
 ANTD_SVG_ICON_DIR_VARIANT_NAMES = ["filled", "outlined", "twotone"]
 
 ANTD_SVG_ICON_DIR_VARIANT_NAME_MAP = {
-    "filled": constants.icon_constants.ICON_VARIANT_DEFAULT,
+    "filled": constants.icon_constants.ICON_VARIANT_SOLID,
     "outlined": constants.icon_constants.ICON_VARIANT_OUTLINED,
     "twotone":  constants.icon_constants.ICON_VARIANT_TWOTONE
 }

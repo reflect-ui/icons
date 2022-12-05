@@ -72,7 +72,7 @@ def main():
 
         single_icon_config = models.model.SingleIconConfig(
             default_size=size,
-            variant="default" if icon_variant == "" else icon_variant,
+            variant=constants.icon_constants.ICON_VARIANT_SOLID if icon_variant == "" else icon_variant,
             family=icon_name,
             host=constants.icon_constants.ICON_ORIGIN_HOST_MATERIAL
         )
